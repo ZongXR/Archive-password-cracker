@@ -1,5 +1,9 @@
 # 压缩包密码破解
 This repository provides codes to crack archive with password
+## Privacy Policy
+You need select the archive that you want to crack. In the version 1.0.0.0, this application will crack the archive password by enumerating passwords that you can config in this software. We will not collect any information from your archive file.
+## 隐私策略
+你需要在软件中选择要破解的压缩文件。在1.0.0.0版本中，该软件通过暴力枚举密码的方式来破解压缩包密码，你可以在软件中配置你需要枚举的密码。我们将不会从你的压缩文件中收集任何信息。
 ## 主要功能
 通过暴力枚举的方式，破解压缩包密码，后期将搭建md5-password共享平台。
 ## 版本迭代
