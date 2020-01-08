@@ -224,7 +224,7 @@ def extract_rar(passwords: (str, ), zipfile_path: str, extract_path: str) -> str
             if len(password) == 0:
                 continue
             try:
-                file.extractall(path=extract_path, members=None, pwd=bytes(password, "utf8"))
+                file.extractall(path=extract_path, members=None, pwd=password)
             except RuntimeError:
                 print("尝试密码 %s 失败" % password)
             except BadRarFile:
