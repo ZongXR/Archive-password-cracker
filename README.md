@@ -23,4 +23,7 @@ You need select the archive that you want to crack. In the version 1.0.0.0, this
 ![main_window](https://raw.githubusercontent.com/GoogleLLP/Archive-password-cracker/master/%E5%8A%A0%E5%AF%86%E5%8E%8B%E7%BC%A9%E5%8C%85%E7%A0%B4%E8%A7%A3%E5%99%A81.0.0.0/screen_shots/main_window.PNG)</br>
 ![cracking_password](https://raw.githubusercontent.com/GoogleLLP/Archive-password-cracker/master/%E5%8A%A0%E5%AF%86%E5%8E%8B%E7%BC%A9%E5%8C%85%E7%A0%B4%E8%A7%A3%E5%99%A81.0.0.0/screen_shots/cracking.PNG)</br>
 ![crack_succeed](https://raw.githubusercontent.com/GoogleLLP/Archive-password-cracker/master/%E5%8A%A0%E5%AF%86%E5%8E%8B%E7%BC%A9%E5%8C%85%E7%A0%B4%E8%A7%A3%E5%99%A81.0.0.0/screen_shots/succeed.PNG)</br>
-![about_dialog](https://raw.githubusercontent.com/GoogleLLP/Archive-password-cracker/master/%E5%8A%A0%E5%AF%86%E5%8E%8B%E7%BC%A9%E5%8C%85%E7%A0%B4%E8%A7%A3%E5%99%A81.0.0.0/screen_shots/about.PNG)
+![about_dialog](https://raw.githubusercontent.com/GoogleLLP/Archive-password-cracker/master/%E5%8A%A0%E5%AF%86%E5%8E%8B%E7%BC%A9%E5%8C%85%E7%A0%B4%E8%A7%A3%E5%99%A81.0.0.0/screen_shots/about.PNG)</br>
+### 1.1.0.0
+优化用户界面展示逻辑</br>
+修复若干bug</br>
