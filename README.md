@@ -6,6 +6,10 @@ You need select the archive file that you want to crack. In the newest version, 
 你需要在软件中选择要破解的压缩文件。在最新版本中，该软件通过暴力枚举密码的方式来破解压缩包密码，你可以在软件中配置你需要枚举的密码。我们将不会从你的压缩文件中收集任何信息。
 ## 主要功能
 通过暴力枚举的方式，破解压缩包密码，后期将搭建md5-password共享平台。
+## 截图展示
+![export_dict](https://raw.githubusercontent.com/GoogleLLP/Archive-password-cracker/master/%E5%8A%A0%E5%AF%86%E5%8E%8B%E7%BC%A9%E5%8C%85%E7%A0%B4%E8%A7%A3%E5%99%A81.2.0.0/screen_shot/%E5%AF%BC%E5%87%BA%E5%AD%97%E5%85%B8.gif)</br>
+![crack_password](https://raw.githubusercontent.com/GoogleLLP/Archive-password-cracker/master/%E5%8A%A0%E5%AF%86%E5%8E%8B%E7%BC%A9%E5%8C%85%E7%A0%B4%E8%A7%A3%E5%99%A81.2.0.0/screen_shot/%E5%BC%80%E5%A7%8B%E7%A0%B4%E8%A7%A3.gif)</br>
+![actions](https://raw.githubusercontent.com/GoogleLLP/Archive-password-cracker/master/%E5%8A%A0%E5%AF%86%E5%8E%8B%E7%BC%A9%E5%8C%85%E7%A0%B4%E8%A7%A3%E5%99%A81.2.0.0/screen_shot/%E5%B8%B8%E8%A7%84%E6%93%8D%E4%BD%9C.gif)</br>
 ## 版本迭代
 ### 0.1.0.0
 支持内置字典以及外部字典破解</br>
