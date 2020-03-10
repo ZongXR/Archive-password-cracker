@@ -32,3 +32,5 @@ You need select the archive file that you want to crack. In the newest version, 
 新增动图展示</br>
 通过类型Type-hinting兼容PyCharm语法提示</br>
 改善后台逻辑，提高运行效率</br>
+### 1.2.1.0
+修复一些bug</br>
