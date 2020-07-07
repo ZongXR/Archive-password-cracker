@@ -10,6 +10,15 @@ You need select the archive file that you want to crack. In the newest version, 
 ![export_dict](./screen_shot/导出字典.gif)<br />
 ![crack_password](./screen_shot/开始破解.gif)<br />
 ![actions](./screen_shot/常规操作.gif)<br />
+## 使用说明
+### 方法一：直接运行exe文件
+使用release版本：运行main.exe
+### 方法二：通过python运行脚本
+本项目使用python3.7.3构建，依赖库已保存至文件requirements.txt，cd到该目录下，依次执行以下命令<br />
+```
+python -m venv
+pip install -r requirements.txt
+```
 ## 版本迭代
 ### 0.1.0.0
 支持内置字典以及外部字典破解<br />
