@@ -50,7 +50,7 @@ Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 kiwisolver==1.1.0
 locket==0.2.0
-lxml==4.5.0
+lxml==4.9.1
 Markdown==3.2.1
 MarkupSafe==1.1.1
 matplotlib==3.1.3
