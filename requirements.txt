@@ -14,7 +14,7 @@ cycler==0.10.0
 dask==2.11.0
 decorator==4.4.2
 defusedxml==0.6.0
-distributed==2.11.0
+distributed==2021.10.0
 docx-mailmerge==0.5.0
 entrypoints==0.3
 fsspec==0.6.2
